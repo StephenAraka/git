@@ -2,7 +2,7 @@
 ## git techniques and shortcuts 
 
 ### add and commit
-git config --global alias.ac "commit -am"__
+git config --global alias.ac "commit -am"  
 git ac "message"
 
 ### amend prev
