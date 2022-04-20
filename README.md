@@ -1,5 +1,5 @@
 # git
-## <span style="color:blue">*git techniques and shortcuts*</span> 
+<span style="color:blue">*git techniques and shortcuts*</span> 
 
 ### add and commit
 git config --global alias.ac "commit -am"  
